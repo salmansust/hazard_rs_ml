@@ -1,0 +1,16 @@
+# inputs and outputs (not versioned)
+data/features_labels/*
+data/well_maps/*
+!data/features_labels/.gitkeep
+!data/well_maps/.gitkeep
+results/*
+!results/.gitkeep
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.venv/
+# OS
+.DS_Store
+Thumbs.db

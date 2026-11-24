@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "An Integrated Remote Sensing and Machine Learning Framework for Mapping Hazard Associated with Leached Metals"
+type: software
+license: MIT
+authors:
+  - family-names: Karim
+    given-names: Salman
+    affiliation: "Department of Mining and Minerals Engineering, Virginia Tech"
+  - family-names: Nojabaei
+    given-names: Bahareh
+    affiliation: "Virginia Tech"
+  - family-names: Foroutan
+    given-names: Hosein
+    affiliation: "Virginia Tech"
+keywords:
+  - coal combustion residuals
+  - leached metals
+  - hazard index
+  - Sentinel-2
+  - machine learning
+  - Google Earth Engine
+references:
+  - type: dataset
+    title: "Multisource remote sensing dataset for leached metal hazard mapping at four coal combustion residual sites in Virginia, USA (2019–2025)"
+    authors:
+      - family-names: Karim
+        given-names: Salman
+    year: 2026
+    version: "1.0"
+    publisher:
+      name: Zenodo
+    doi: 10.5281/zenodo.23823223
+preferred-citation:
+  type: article
+  title: "An Integrated Remote Sensing and Machine Learning Framework for Mapping Hazard Associated with Leached Metals"
+  status: in-preparation
+  authors:
+    - family-names: Karim
+      given-names: Salman
+    - family-names: Nojabaei
+      given-names: Bahareh
+    - family-names: Foroutan
+      given-names: Hosein

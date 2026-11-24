@@ -1,0 +1,16 @@
+# local pipeline (src/hazard_ml.py, notebooks/hazard_ml.ipynb)
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+scikit-learn>=1.3
+matplotlib>=3.7
+tifffile>=2023.1       # or rasterio
+pillow>=9.0
+python-docx>=1.0       # Word tables
+shap>=0.44             # Step 7 (SHAP)
+contextily>=1.4        # optional: basemap tiles
+# Earth Engine export (src/hazard_ml_gee.py)
+earthengine-api>=0.1.380
+geemap>=0.30
+# notebook
+jupyterlab>=4.0
