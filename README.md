@@ -1,7 +1,7 @@
 # An Integrated Remote Sensing and Machine Learning Framework for Mapping Hazard Associated with Leached Metals
 
 Code for the paper *An Integrated Remote Sensing and Machine Learning Framework for Mapping Hazard Associated with
-Leached Metals* (Karim, Nojabaei and Foroutan, in preparation).
+Leached Metals* (Karim, Nojabaei and Foroutan, in review).
 
 ![Framework](docs/figures/framework.png)
 
@@ -138,7 +138,7 @@ regenerated from public Earth Engine datasets with `src/hazard_ml_gee.py`.
 If you use this code, please cite the paper (see `CITATION.cff`):
 
 > Karim, S., Nojabaei, B., Foroutan, H. An Integrated Remote Sensing and Machine Learning Framework for Mapping Hazard
-> Associated with Leached Metals. In preparation.
+> Associated with Leached Metals. In review.
 
 If you use the data, please also cite the dataset:
 
