@@ -60,8 +60,8 @@ leached-metal-hazard-rs-ml/
 ## Installation
 
 ```bash
-git clone https://github.com/salmansust/hazard-rs-ml.git
-cd hazard-rs-ml
+git clone https://github.com/salmansust/hazard_rs_ml.git
+cd hazard_rs_ml
 conda env create -f environment.yml && conda activate leached-metal-hazard
 # or: pip install -r requirements.txt
 ```
