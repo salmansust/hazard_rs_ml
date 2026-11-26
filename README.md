@@ -138,7 +138,7 @@ regenerated from public Earth Engine datasets with `src/hazard_ml_gee.py`.
 If you use this code, please cite the paper (see `CITATION.cff`):
 
 > Karim, S., Nojabaei, B., Foroutan, H. An Integrated Remote Sensing and Machine Learning Framework for Mapping Hazard
-> Associated with Leached Metals. In review.
+> Associated with Leached Metals. (Preprint) https://doi.org/10.48550/arXiv.2611.32505
 
 If you use the data, please also cite the dataset:
 
